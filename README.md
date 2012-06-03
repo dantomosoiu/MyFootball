@@ -52,7 +52,7 @@ Game designed by:
 
 Vlad Berindei
 
-Maxim Tiberiu
+Tiberiu Maxim
 
 Dan Tomosoiu
 
