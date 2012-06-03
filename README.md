@@ -49,7 +49,11 @@ Enjoy!
 
 
 Game designed by:
+
 Vlad Berindei
+
 Maxim Tiberiu
+
 Dan Tomosoiu
+
 Eugen Varzaru
